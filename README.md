@@ -13,9 +13,9 @@ Hello, I'm Iréng Febrian. I'm a newbie here and started to making a basic websi
 - Footer
 
 ## Tools
-- "HTML"
-- 'CSS'
-- 'JavaScript'
+- HTML
+- CSS
+- JavaScript
 - External Source
   - Photo
 
