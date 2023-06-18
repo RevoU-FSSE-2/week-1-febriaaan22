@@ -1,4 +1,4 @@
-![image](https://github.com/RevoU-FSSE-2/week-1-febriaaan22/tree/main/week-1-febriaaan22)
+![image](https://github.com/RevoU-FSSE-2/week-1-febriaaan22/blob/00a57717ca5de37dcece2e75b70c0bbb99187fae/week-1-febriaaan22/Screenshot%202023-06-18%20at%2015.30.58.png)
 
 Hello, I'm Iréng Febrian. I'm a newbie here and started to making a basic website.
 
